@@ -51,7 +51,7 @@ namespace git
         }
         static void feladat3()
         {
-            int toyotaar = 0;
+
         }
         static void feladat4()
         {
